@@ -1,0 +1,5 @@
+# GlobalTranslatePro
+# By HamdyAhmed
+# Enigma2 Support 
+
+version=6.6.1
